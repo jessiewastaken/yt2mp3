@@ -39,7 +39,7 @@ Make sure the URL you inserted is not from a playlist, URLs that are in a playli
 
 <h2>I put in my URL, but nothing appeared in my Music folder.</h2>
 
-Restart the application, and try again. If it still isn't working, open an issue here on the GitHub page and I will try and help you out as much as possible
+Restart the application, and try again. If it still isn't working, open an issue here on the GitHub page and I will try to help you out as much as possible
 
 <h2>Windows has detected the files as malware, are they safe?</h2>
 

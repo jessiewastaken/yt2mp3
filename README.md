@@ -7,7 +7,7 @@ A simple YouTube downloader, utilizing:
 - ffmpeg
 - ffprobe
 
-<h1>Usage</h1>
+<h1>Usage (Windows)</h1>
 
 Extract the yt2mp3.zip file, and run yt2mp3.bat.
 

@@ -19,7 +19,7 @@ To download another video, simply just open up the application again and it will
 
 <h1>Usage (macOS)</h1>
 
-NOTE: As of now, the macOS build requires knowledge of basic terminal usage. Proceed at your own discresion.
+**NOTE: As of now, the macOS build requires knowledge of basic terminal usage. Proceed at your own discresion.**
 
 Extract yt2mp3_macos.zip, then open Terminal and change your directory to the folder you extracted yt2mp3 to.
 

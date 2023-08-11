@@ -35,11 +35,11 @@ To download another video, simply just open up the application again and it will
 
 <h2>I put in my URL, but it's giving an error about list and index?</h2>
 
-Make sure the URL you inserted is not from a playlist, URLs that are in a playlist break yt2mp3. If your song is in a playlist, you can safely remove the rest of the link up to just before "&list=" in the YouTube URL and then you can download the individual songs.
+Make sure the URL you inserted is not from a playlist, URLs that are in a playlist break yt2mp3. If your song is in a playlist, you can safely remove the rest of the link up to just before `&list=` in the YouTube URL and then you can download the individual songs.
 
 <h2>I put in my URL, but nothing appeared in my Music folder.</h2>
 
-Restart the application, and try again. If it still isn't working, open an issue here on the GitHub page and I will try and help you out as much as possible
+Restart the application, and try again. If it still isn't working, open an issue here on the GitHub page and I will try to help you out as much as possible
 
 <h2>Windows has detected the files as malware, are they safe?</h2>
 
